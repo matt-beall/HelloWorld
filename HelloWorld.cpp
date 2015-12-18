@@ -19,9 +19,9 @@
 #include <Eigen/Core>
 #include <Eigen/Dense>
 
-#include <GL/glew.h>
-#include <GL/glu.h>
-#include <GL/glut.h>
+// #include <GL/glew.h>
+// #include <GL/glu.h>
+// #include <GL/glut.h>
 
 /*
  * Global Variables.  We will store our single window globally.  We also record
