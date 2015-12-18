@@ -1,1 +1,0 @@
-x86_64-w64-mingw32-g++  -fPIC   -shared -Wl,-soname,hello_plugin.xpl -o hello_plugin.xpl CMakeFiles/hello_plugin.dir/HelloWorld.cpp.o ../SDK/Libraries/Win/XPLM_64.lib 
